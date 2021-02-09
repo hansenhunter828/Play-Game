@@ -26,6 +26,7 @@ namespace Play_Game
         {
             SoundPlayer beep = new SoundPlayer(Properties.Resources.Beep);
             SoundPlayer go = new SoundPlayer(Properties.Resources.Go);
+            //Hello!
 
             countDownLabel.Show();
             playButton.Hide();
